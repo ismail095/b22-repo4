@@ -1,0 +1,8 @@
+I just created empty remote repository from GitHub.com account by clicking on the the plus icon
+on top right corner and new repository
+and give a name and click create
+
+
+
+And Cloned this repository by clicking on set up in decktop and (optionaly select the location) click on clone
+
